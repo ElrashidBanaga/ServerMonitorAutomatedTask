@@ -1,4 +1,4 @@
-```python
+
 #!/usr/bin/env python3
 
 import os
@@ -131,5 +131,5 @@ with open(report_file, "w") as file:
     file.write(report)
 
 print(f"\nReport saved to: {report_file}")
-```
+
 

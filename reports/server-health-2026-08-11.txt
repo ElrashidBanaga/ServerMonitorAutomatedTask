@@ -1,0 +1,24 @@
+# SERVER HEALTH REPORT
+
+Hostname: elrashid-Ubuntu2004
+Current User: elrashid
+Date: 2026-08-11 21:22:33
+Operating System: Linux-7.0.0-29-generic-x86_64-with-glibc2.43
+Kernel: 7.0.0-29-generic
+CPU Usage: 17.3%
+
+Memory Usage:
+Total: 5.22 GB
+Used: 1.46 GB
+Free: 3.76 GB
+Usage: 27.9%
+
+Disk Usage:
+Filesystem: /
+Used: 11.06 GB
+Available: 25.99 GB
+Usage: 29.9%
+
+IP Address: 127.0.1.1
+
+System Uptime: 0 days, 7 hours, 37 minutes
