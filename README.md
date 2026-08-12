@@ -92,3 +92,6 @@ IP Address: 192.168.1.100
 
 System Uptime: 2 days, 5 hours, 31 minutes
 ```
+##  Screenshots
+
+![Project Screenshot](screenshots/11-GitHubRepsitory.png)
