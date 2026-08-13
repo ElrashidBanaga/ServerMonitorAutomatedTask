@@ -117,7 +117,7 @@ System Uptime: 2 days, 5 hours, 31 minutes
 # 04-README.md screenshot:
 ```
 
-![Project Screenshot](screenshots/04-README.md.jpeg)
+![Project Screenshot](screenshots/04-README.md.png)
 
 
 ```text
@@ -155,7 +155,7 @@ System Uptime: 2 days, 5 hours, 31 minutes
 #1 0-GitCommitHistory screenshot:
 ```
 
-![Project Screenshot](screenshots/10-GitCommitHistory.png)
+![Project Screenshot](screenshots/10-GitCommitMessagesHistory.png)
 
 
 ```text
