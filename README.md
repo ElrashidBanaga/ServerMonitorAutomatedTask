@@ -98,6 +98,68 @@ System Uptime: 2 days, 5 hours, 31 minutes
 ```
 ![Project Screenshot](screenshots/01-HealthReport.jpeg)
 
+
 ```text
-# 11-GitHubRepsitory screenshot:```
+# 02-ServerReportscreenshot:
+```
+
+![Project Screenshot](screenshots/02-ServerReport.jpeg)
+
+
+```text
+# 03-DatedServerReport screenshot:
+```
+
+![Project Screenshot](screenshots/03-DatedServerReport.jpeg)
+
+
+```text
+# 04-README.md screenshot:
+```
+
+![Project Screenshot](screenshots/04-README.md.jpeg)
+
+
+```text
+#  5-ProjectStructure & Requirements screenshot:
+```
+
+![Project Screenshot](screenshots/05-ProjectStructure&Requirements.png)
+
+
+```text
+# 06-Installation screenshot:
+```
+
+![Project Screenshot](screenshots/06-Installation.png)
+
+
+```text
+#07-RunnningTheCode screenshot:
+```
+
+![Project Screenshot](screenshots/07-RunnningTheCode.png)
+
+```text
+# 08-OutputExample  screenshot:
+```
+
+![Project Screenshot](screenshots/08-OutputExample.png)
+```text
+# 09-GeneratedReport screenshot:
+```
+
+![Project Screenshot](screenshots/09-GeneratedReport.png)
+
+```text
+#1 0-GitCommitHistory screenshot:
+```
+
+![Project Screenshot](screenshots/10-GitCommitHistory.png)
+
+
+```text
+# 11-GitHubRepsitory screenshot:
+```
+
 ![Project Screenshot](screenshots/11-GitHubRepsitory.png)
