@@ -93,10 +93,11 @@ IP Address: 192.168.1.100
 System Uptime: 2 days, 5 hours, 31 minutes
 ```
 # Screenshots
-
-```01-HealthReport screenshot:```
+```text
+# 01-HealthReport screenshot:
+```
 ![Project Screenshot](screenshots/01-HealthReport.jpeg)
 
-
-```11-GitHubRepsitory screenshot:```
+```text
+# 11-GitHubRepsitory screenshot:```
 ![Project Screenshot](screenshots/11-GitHubRepsitory.png)
